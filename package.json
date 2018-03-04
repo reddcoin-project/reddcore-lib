@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-lib",
+  "name": "reddcore-lib",
   "version": "0.15.0",
-  "description": "A pure and powerful JavaScript Bitcoin library.",
-  "author": "BitPay <dev@bitpay.com>",
+  "description": "A pure and powerful JavaScript Reddcoin library.",
+  "author": "Gnasher <gnasher@reddcoin.com>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -11,6 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
+    "reddcoin",
     "bitcoin",
     "transaction",
     "address",
@@ -28,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-lib.git"
+    "url": "https://github.com/reddcoin-project/reddcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
