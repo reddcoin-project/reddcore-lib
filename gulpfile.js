@@ -1,5 +1,5 @@
 
 
-var bitcoreTasks = require('bitcore-build');
+var reddcoreTasks = require('reddcore-build');
 
-bitcoreTasks('lib');
+reddcoreTasks('lib');
