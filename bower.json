@@ -1,12 +1,12 @@
 {
-  "name": "bitcore-lib",
-  "main": "./bitcore-lib.min.js",
+  "name": "reddcore-lib",
+  "main": "./reddcore-lib.min.js",
   "version": "5.0.0-beta.1",
-  "homepage": "http://bitcore.io",
-  "authors": ["BitPay, Inc."],
-  "description": "A pure, powerful core for your bitcoin project.",
+  "homepage": "http://reddcoin.com",
+  "authors": ["BitPay, Inc.","Reddcoin"],
+  "description": "A pure, powerful core for your reddcoin project.",
   "moduleType": ["globals"],
-  "keywords": ["bitcoin", "bitcore", "btc", "satoshi"],
+  "keywords": ["reddcoin","reddcore","bitcoin", "bitcore", "btc", "satoshi"],
   "license": "MIT",
   "ignore": [
     "**/.*",
